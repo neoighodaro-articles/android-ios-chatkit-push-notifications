@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698219365278",
+    "firebase_url": "https://chatkit-notifications-d5c81.firebaseio.com",
+    "project_id": "chatkit-notifications-d5c81",
+    "storage_bucket": "chatkit-notifications-d5c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698219365278:android:5a7ab618979379ee",
+        "android_client_info": {
+          "package_name": "com.neo.chatkitpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698219365278-b0rsajhpfteml524l8rm3pb8f5qbk81f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkkiGyP-epFly2lF-ZhlCv8HY4K7_jhnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698219365278-b0rsajhpfteml524l8rm3pb8f5qbk81f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

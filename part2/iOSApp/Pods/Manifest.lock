@@ -1,0 +1,24 @@
+PODS:
+  - BeamsChatkit (1.2.4)
+  - PusherChatkit (1.4.4):
+    - BeamsChatkit (~> 1.2)
+    - PusherPlatform (~> 0.7.1)
+  - PusherPlatform (0.7.1)
+
+DEPENDENCIES:
+  - PusherChatkit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BeamsChatkit
+    - PusherChatkit
+    - PusherPlatform
+
+SPEC CHECKSUMS:
+  BeamsChatkit: 8d6da00ded34ee11116e9e38427a20e04301d796
+  PusherChatkit: 787c9e2911624a1b949f335a3aeac4decaeb4698
+  PusherPlatform: 243a8c0b018663831eafc8bef39fa196257de1f2
+
+PODFILE CHECKSUM: 397e37a1674d53df6b178b7e16ee13cd3d575531
+
+COCOAPODS: 1.5.3
