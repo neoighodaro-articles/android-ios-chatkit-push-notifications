@@ -22,4 +22,3 @@ You need the following installed:
 
 * [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
 
-## Acknowledgments
