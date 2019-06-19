@@ -1,6 +1,9 @@
 # Chatkit Push Notifications
 An app that shows how to send push notifications to users in a private room when they are offline.
 
+* https://pusher.com/tutorials/realtime-notifications-chat-part-1
+* https://pusher.com/tutorials/realtime-notifications-chat-part-2
+
 ## Getting Started
 
 Clone the repository. The repository has a `part1` folder which contains the backend and Android app. And a `part2` folder which contains the iOS app.
